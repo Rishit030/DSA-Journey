@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Rishit030/DSA-Journey/tree/master/0258-add-digits) |
+| [3813-vowel-consonant-score](https://github.com/Rishit030/DSA-Journey/tree/master/3813-vowel-consonant-score) |
 ## Number Theory
 |  |
 | ------- |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rishit030/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+## String
+|  |
+| ------- |
+| [3813-vowel-consonant-score](https://github.com/Rishit030/DSA-Journey/tree/master/3813-vowel-consonant-score) |
 <!---LeetCode Topics End-->
