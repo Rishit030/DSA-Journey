@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Rishit030/DSA-Journey/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rishit030/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rishit030/DSA-Journey/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/Rishit030/DSA-Journey/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/Rishit030/DSA-Journey/tree/master/0704-binary-search) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rishit030/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Rishit030/DSA-Journey/tree/master/1480-running-sum-of-1d-array) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Rishit030/DSA-Journey/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/Rishit030/DSA-Journey/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/Rishit030/DSA-Journey/tree/master/0704-binary-search) |
 ## Math
 |  |
