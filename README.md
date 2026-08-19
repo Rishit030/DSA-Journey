@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Rishit030/DSA-Journey/tree/master/0242-valid-anagram) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rishit030/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -56,9 +57,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Rishit030/DSA-Journey/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Rishit030/DSA-Journey/tree/master/0242-valid-anagram) |
 | [3813-vowel-consonant-score](https://github.com/Rishit030/DSA-Journey/tree/master/3813-vowel-consonant-score) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rishit030/DSA-Journey/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/Rishit030/DSA-Journey/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
