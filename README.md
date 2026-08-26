@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Rishit030/DSA-Journey/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Rishit030/DSA-Journey/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishit030/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Rishit030/DSA-Journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Rishit030/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Rishit030/DSA-Journey/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/Rishit030/DSA-Journey/tree/master/0905-sort-array-by-parity) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Rishit030/DSA-Journey/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/Rishit030/DSA-Journey/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Rishit030/DSA-Journey/tree/master/0258-add-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Rishit030/DSA-Journey/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2235-add-two-integers](https://github.com/Rishit030/DSA-Journey/tree/master/2235-add-two-integers) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rishit030/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Rishit030/DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishit030/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Rishit030/DSA-Journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Rishit030/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Rishit030/DSA-Journey/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rishit030/DSA-Journey/tree/master/0345-reverse-vowels-of-a-string) |
