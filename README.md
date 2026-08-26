@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishit030/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Rishit030/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Rishit030/DSA-Journey/tree/master/0704-binary-search) |
+| [0905-sort-array-by-parity](https://github.com/Rishit030/DSA-Journey/tree/master/0905-sort-array-by-parity) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rishit030/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Rishit030/DSA-Journey/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Rishit030/DSA-Journey/tree/master/0242-valid-anagram) |
+| [0905-sort-array-by-parity](https://github.com/Rishit030/DSA-Journey/tree/master/0905-sort-array-by-parity) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rishit030/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Rishit030/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Rishit030/DSA-Journey/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rishit030/DSA-Journey/tree/master/0345-reverse-vowels-of-a-string) |
+| [0905-sort-array-by-parity](https://github.com/Rishit030/DSA-Journey/tree/master/0905-sort-array-by-parity) |
 ## String
 |  |
 | ------- |
