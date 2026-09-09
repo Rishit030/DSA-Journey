@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishit030/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Rishit030/DSA-Journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Rishit030/DSA-Journey/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/Rishit030/DSA-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Rishit030/DSA-Journey/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/Rishit030/DSA-Journey/tree/master/0905-sort-array-by-parity) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rishit030/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -94,4 +95,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Rishit030/DSA-Journey/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/Rishit030/DSA-Journey/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
