@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Rishit030/DSA-Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/Rishit030/DSA-Journey/tree/master/0567-permutation-in-string) |
 | [1768-merge-strings-alternately](https://github.com/Rishit030/DSA-Journey/tree/master/1768-merge-strings-alternately) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Rishit030/DSA-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3813-vowel-consonant-score](https://github.com/Rishit030/DSA-Journey/tree/master/3813-vowel-consonant-score) |
 ## Hash Table
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Rishit030/DSA-Journey/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Rishit030/DSA-Journey/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/Rishit030/DSA-Journey/tree/master/0567-permutation-in-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Rishit030/DSA-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Greedy
 |  |
 | ------- |
@@ -98,4 +100,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Rishit030/DSA-Journey/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Rishit030/DSA-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/Rishit030/DSA-Journey/tree/master/1652-defuse-the-bomb) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Rishit030/DSA-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Counting
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Rishit030/DSA-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
