@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishit030/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Rishit030/DSA-Journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Rishit030/DSA-Journey/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rishit030/DSA-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Rishit030/DSA-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Rishit030/DSA-Journey/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/Rishit030/DSA-Journey/tree/master/0905-sort-array-by-parity) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Rishit030/DSA-Journey/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Rishit030/DSA-Journey/tree/master/0242-valid-anagram) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rishit030/DSA-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Rishit030/DSA-Journey/tree/master/0567-permutation-in-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Rishit030/DSA-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Greedy
